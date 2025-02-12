@@ -1,0 +1,4 @@
+@import 'tailwindcss';
+input[type="file"] {
+    display: none;
+  }
