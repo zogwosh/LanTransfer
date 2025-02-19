@@ -1,34 +1,10 @@
-# electron-app
+# 局域网传输工具
 
-An Electron application with React and TypeScript
+## 技术栈
 
-## Recommended IDE Setup
+- electron vite react tailwindcss
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+## 功能
 
-## Project Setup
-
-### Install
-
-```bash
-$ npm install
-```
-
-### Development
-
-```bash
-$ npm run dev
-```
-
-### Build
-
-```bash
-# For windows
-$ npm run build:win
-
-# For macOS
-$ npm run build:mac
-
-# For Linux
-$ npm run build:linux
-```
+- 文件传输
+- 通过广播和组播发现设备
